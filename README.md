@@ -2,6 +2,8 @@
 
 This is a Python-based Face Recognition Attendance System designed to automate the process of taking attendance. It uses real-time webcam input or group photos to identify and record faces with high accuracy. Attendance is saved per lecture session and stored date-wise to maintain clean, organized records.
 
+> 🔒 **Note:** For privacy reasons, the original student images have been replaced with images of characters from the *Friends* TV show in the demo.
+
 ---
 
 ## 🛠️ Features
